@@ -7,5 +7,5 @@ include:
   - README.md
   - LICENSE.md
 
-title: Site Name
-description: This is a brief description of the site
+title: Game of Turing
+description: If a machine wins in this game the participating human is pronounced to be 'turinged'.

@@ -1,4 +1,2 @@
-# githubio-template
-Template for github.io pages
-### Also
-[settings](https://github.com/jekyll/jekyll-seo-tag/tree/master)
+# Game of Turing
+If a machine wins in this game the participating human is pronounced to be __'turinged'__.
